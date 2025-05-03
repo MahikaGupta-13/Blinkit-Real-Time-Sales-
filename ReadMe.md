@@ -1,4 +1,20 @@
-BlinkIT Grocery Sales Dashboard | MS Excel (Advanced), Pivot Tables, Data Visualization
-I built an interactive BlinkIT Grocery Sales Dashboard using advanced Excel tools such as Pivot Tables, slicers, and custom visualizations to analyze grocery sales data across product types, outlet locations, and customer segments. 
-The dashboard visualizes key metrics like total sales, item visibility, and customer ratings, enabling dynamic filtering and trend exploration. 
-It supports informed decision-making for sales strategies, inventory management, and marketing focus, while demonstrating strong capabilities in data cleaning, modeling, and interactive dashboard design.
+BlinkIT Grocery Sales Dashboard
+BlinkIT Grocery Sales Dashboard is an interactive analytics solution offering deep insights into grocery sales data across products, outlets, and customer segments—empowering data-driven decision-making through advanced Excel dashboards.
+
+🌟 Features
+Interactive dashboards with slicers and Pivot Tables
+Sales analysis by product type, outlet type, and location tier
+Dynamic filtering and comparative analysis
+Visual exploration of KPIs (Sales, Ratings, Visibility)
+Clean, business-friendly dashboard interface
+
+📂 Modules
+Dashboard: Interactive charts, KPIs, slicers
+Sales Analysis: Trends by category, outlet, region
+Data Model: Cleaned and structured datasets for reporting
+
+🛠 Technologies Used
+MS Excel (Pivot Tables, Charts, Slicers)
+Conditional Formatting
+Data Cleaning & Modeling
+
