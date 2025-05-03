@@ -1,3 +1,4 @@
-Blinkit Real Time Sales Analysis Dashboard-Excel: Designed and developed an interactive Excel dashboard for real-time analysis of Blinkit grocery sales data. 
-Integrated pivot tables, dynamic charts, and slicers to visualize key metrics such as total sales, item visibility, outlet performance, and product ratings across multiple categories. 
-Enabled dynamic filtering and comparative analysis by item type, outlet characteristics, and sales performance to support data-driven decision making.
+BlinkIT Grocery Sales Dashboard | MS Excel (Advanced), Pivot Tables, Data Visualization
+I built an interactive BlinkIT Grocery Sales Dashboard using advanced Excel tools such as Pivot Tables, slicers, and custom visualizations to analyze grocery sales data across product types, outlet locations, and customer segments. 
+The dashboard visualizes key metrics like total sales, item visibility, and customer ratings, enabling dynamic filtering and trend exploration. 
+It supports informed decision-making for sales strategies, inventory management, and marketing focus, while demonstrating strong capabilities in data cleaning, modeling, and interactive dashboard design.
